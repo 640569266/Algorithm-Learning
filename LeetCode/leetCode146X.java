@@ -3,6 +3,7 @@ public class leetCode146X{
 	{
 		int i=0;		
 		
+		int j=0;
 	}
 	
 	
